@@ -7,3 +7,12 @@ public class HelloWorld {
       System.out.println(message);
     }
   }
+
+//run: 
+// javac HelloWorld.java
+// java HelloWorld
+
+// Java
+// 1. compiled
+// 2. strict rules
+// 3. mature and stable, powerful debugging
