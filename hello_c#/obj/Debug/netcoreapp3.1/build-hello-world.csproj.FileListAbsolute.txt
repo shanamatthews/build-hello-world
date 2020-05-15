@@ -1,0 +1,12 @@
+/Users/shana/src/git/build-hello-world/hello_c#/bin/Debug/netcoreapp3.1/build-hello-world.deps.json
+/Users/shana/src/git/build-hello-world/hello_c#/bin/Debug/netcoreapp3.1/build-hello-world.runtimeconfig.json
+/Users/shana/src/git/build-hello-world/hello_c#/bin/Debug/netcoreapp3.1/build-hello-world.runtimeconfig.dev.json
+/Users/shana/src/git/build-hello-world/hello_c#/bin/Debug/netcoreapp3.1/build-hello-world.dll
+/Users/shana/src/git/build-hello-world/hello_c#/bin/Debug/netcoreapp3.1/build-hello-world.pdb
+/Users/shana/src/git/build-hello-world/hello_c#/obj/Debug/netcoreapp3.1/build-hello-world.csprojAssemblyReference.cache
+/Users/shana/src/git/build-hello-world/hello_c#/obj/Debug/netcoreapp3.1/build-hello-world.csproj.CoreCompileInputs.cache
+/Users/shana/src/git/build-hello-world/hello_c#/obj/Debug/netcoreapp3.1/build-hello-world.AssemblyInfoInputs.cache
+/Users/shana/src/git/build-hello-world/hello_c#/obj/Debug/netcoreapp3.1/build-hello-world.AssemblyInfo.cs
+/Users/shana/src/git/build-hello-world/hello_c#/obj/Debug/netcoreapp3.1/build-hello-world.dll
+/Users/shana/src/git/build-hello-world/hello_c#/obj/Debug/netcoreapp3.1/build-hello-world.pdb
+/Users/shana/src/git/build-hello-world/hello_c#/obj/Debug/netcoreapp3.1/build-hello-world.genruntimeconfig.cache
