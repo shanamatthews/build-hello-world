@@ -8,7 +8,8 @@ namespace build_hello_world
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            String message = "Hello, World!";
+            Console.WriteLine(message);
         }
     }
 }
@@ -17,10 +18,11 @@ namespace build_hello_world
 // dotnet run
 // OR
 // dotnet clean
+// (check your bin!)
 // dotnet build
 // dotnet ./bin/Debug/netcoreapp3.1/build-hello-world.dll
 
 // C#
-// 1. compiled
+// 1. compiled to an executable - can run FAST
 // 2. object-oriented with strict rules 
 // 3. mature and stable, powerful debugging

@@ -1,4 +1,4 @@
 HAI
     CAN HAS STDIO?
-    VISIBLE "Hello world!"
+    VISIBLE "Hello, World!"
 KTHXBYE

@@ -7,3 +7,6 @@ int main() {
     cout << "Hello, World!" << endl;
     return 0;
 }
+
+// [linux] g++ helloworld.cpp -o hello
+// ./hello

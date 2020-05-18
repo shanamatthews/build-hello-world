@@ -6,7 +6,7 @@ print(message)
 
 # run: python hello_world.py
 
-# Python#
-#  1. scripting language
+# Python
+#  1. interpreted scripting language - usually slower
 #  2. simple syntax, whitespace matters
 #  3. community, libraries, readability 
