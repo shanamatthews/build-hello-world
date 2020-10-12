@@ -7,3 +7,9 @@
 
 # Local History for Visual Studio Code
 .history/
+.vscode/launch.json
+.vscode/tasks.json
+hello_c#/packages-microsoft-prod.deb
+hello_c#/bin/*
+hello_c#/obj/*
+
